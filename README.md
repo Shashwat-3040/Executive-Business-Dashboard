@@ -75,7 +75,7 @@ value, so the dashboard recalculates correctly if the underlying extract changes
 │   ├── build_workbook_part3.py   # Stage 3: Chart_Data helper sheet
 │   └── build_workbook_part4.py   # Stage 4: Dashboard (KPI cards, charts, lookup tool)
 ├── excel/
-│   └── Executive_Business_Performance_Dashboard.xlsx
+│   └── Executive_Business_Performance_Dashboard_1.xlsx
 ├── vba/
 │   └── ReportAutomation.bas      # macro module (see below)
 └── docs/
