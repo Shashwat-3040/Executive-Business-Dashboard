@@ -1,0 +1,721 @@
+Region,Year,Month,Category,Amount
+Central,2024,1,Other Admin,2076.03
+Central,2024,1,Depreciation & Amortization,2914.89
+Central,2024,1,Logistics,3326.18
+Central,2024,1,Marketing,3854.85
+Central,2024,1,Rent & Utilities,8657.37
+Central,2024,1,Salaries & Wages,19556.51
+Central,2024,2,Depreciation & Amortization,2669.36
+Central,2024,2,Salaries & Wages,20037.81
+Central,2024,2,Rent & Utilities,8451.31
+Central,2024,2,Marketing,3991.84
+Central,2024,2,Logistics,3250.09
+Central,2024,2,Other Admin,1920.88
+Central,2024,3,Other Admin,1985.46
+Central,2024,3,Salaries & Wages,19426.8
+Central,2024,3,Rent & Utilities,9143.72
+Central,2024,3,Marketing,3809.76
+Central,2024,3,Logistics,3167.07
+Central,2024,3,Depreciation & Amortization,2669.62
+Central,2024,4,Depreciation & Amortization,2886.24
+Central,2024,4,Other Admin,2004.41
+Central,2024,4,Salaries & Wages,18603.7
+Central,2024,4,Rent & Utilities,8469.03
+Central,2024,4,Marketing,4195.29
+Central,2024,4,Logistics,3152.39
+Central,2024,5,Other Admin,2089.6
+Central,2024,5,Salaries & Wages,18883.27
+Central,2024,5,Rent & Utilities,9207.89
+Central,2024,5,Marketing,4135.67
+Central,2024,5,Logistics,3296.41
+Central,2024,5,Depreciation & Amortization,2743.22
+Central,2024,6,Other Admin,1921.59
+Central,2024,6,Salaries & Wages,19539.52
+Central,2024,6,Rent & Utilities,9140.48
+Central,2024,6,Marketing,4092.16
+Central,2024,6,Logistics,3358.63
+Central,2024,6,Depreciation & Amortization,2832.19
+Central,2024,7,Other Admin,2058.29
+Central,2024,7,Salaries & Wages,18566.59
+Central,2024,7,Rent & Utilities,9031.1
+Central,2024,7,Marketing,4133.26
+Central,2024,7,Logistics,3167.82
+Central,2024,7,Depreciation & Amortization,2717.65
+Central,2024,8,Salaries & Wages,19661.46
+Central,2024,8,Other Admin,2043.29
+Central,2024,8,Depreciation & Amortization,2845.93
+Central,2024,8,Logistics,3073.53
+Central,2024,8,Marketing,4109.54
+Central,2024,8,Rent & Utilities,8437.52
+Central,2024,9,Depreciation & Amortization,2837.61
+Central,2024,9,Salaries & Wages,18292.5
+Central,2024,9,Rent & Utilities,8499.2
+Central,2024,9,Marketing,4149.58
+Central,2024,9,Logistics,3196.21
+Central,2024,9,Other Admin,2069.27
+Central,2024,10,Other Admin,1973.16
+Central,2024,10,Salaries & Wages,18459.5
+Central,2024,10,Rent & Utilities,8867.7
+Central,2024,10,Marketing,4063.32
+Central,2024,10,Logistics,3122.64
+Central,2024,10,Depreciation & Amortization,2887.64
+Central,2024,11,Other Admin,2063.49
+Central,2024,11,Salaries & Wages,18768.93
+Central,2024,11,Rent & Utilities,9012.56
+Central,2024,11,Marketing,3888.09
+Central,2024,11,Logistics,3268.08
+Central,2024,11,Depreciation & Amortization,2926.92
+Central,2024,12,Other Admin,1915.65
+Central,2024,12,Depreciation & Amortization,2717.9
+Central,2024,12,Logistics,3097.77
+Central,2024,12,Marketing,3810.17
+Central,2024,12,Rent & Utilities,9072.31
+Central,2024,12,Salaries & Wages,20038.23
+Central,2025,1,Depreciation & Amortization,3023.29
+Central,2025,1,Other Admin,2155.88
+Central,2025,1,Salaries & Wages,20024.71
+Central,2025,1,Rent & Utilities,9684.16
+Central,2025,1,Marketing,4278.43
+Central,2025,1,Logistics,3332.1
+Central,2025,2,Other Admin,2062.39
+Central,2025,2,Salaries & Wages,21293.44
+Central,2025,2,Rent & Utilities,9054.88
+Central,2025,2,Marketing,4303.64
+Central,2025,2,Logistics,3322.1
+Central,2025,2,Depreciation & Amortization,3090.36
+Central,2025,3,Salaries & Wages,20970.76
+Central,2025,3,Other Admin,2098.66
+Central,2025,3,Depreciation & Amortization,3098.67
+Central,2025,3,Logistics,3280.15
+Central,2025,3,Marketing,4321.62
+Central,2025,3,Rent & Utilities,9020.81
+Central,2025,4,Depreciation & Amortization,2872.59
+Central,2025,4,Salaries & Wages,20682.59
+Central,2025,4,Rent & Utilities,8968.34
+Central,2025,4,Marketing,4091.96
+Central,2025,4,Logistics,3237.14
+Central,2025,4,Other Admin,2030.17
+Central,2025,5,Rent & Utilities,8900.5
+Central,2025,5,Other Admin,2182.97
+Central,2025,5,Depreciation & Amortization,3071.05
+Central,2025,5,Logistics,3493.23
+Central,2025,5,Marketing,4362.65
+Central,2025,5,Salaries & Wages,19668.85
+Central,2025,6,Depreciation & Amortization,3070.9
+Central,2025,6,Salaries & Wages,20245.73
+Central,2025,6,Other Admin,2127.76
+Central,2025,6,Rent & Utilities,9668.63
+Central,2025,6,Marketing,4266.15
+Central,2025,6,Logistics,3485.85
+Central,2025,7,Other Admin,2182.18
+Central,2025,7,Depreciation & Amortization,2969.23
+Central,2025,7,Logistics,3274.85
+Central,2025,7,Marketing,4446.11
+Central,2025,7,Rent & Utilities,9114.71
+Central,2025,7,Salaries & Wages,20742.77
+Central,2025,8,Salaries & Wages,20250.18
+Central,2025,8,Other Admin,2067.38
+Central,2025,8,Depreciation & Amortization,2923.49
+Central,2025,8,Logistics,3391.4
+Central,2025,8,Marketing,4167.96
+Central,2025,8,Rent & Utilities,9336.78
+Central,2025,9,Other Admin,2151.81
+Central,2025,9,Depreciation & Amortization,3016.43
+Central,2025,9,Logistics,3402.43
+Central,2025,9,Marketing,4284.45
+Central,2025,9,Rent & Utilities,9451.49
+Central,2025,9,Salaries & Wages,20931.72
+Central,2025,10,Depreciation & Amortization,2971.44
+Central,2025,10,Other Admin,2111.4
+Central,2025,10,Logistics,3406.11
+Central,2025,10,Marketing,4129.29
+Central,2025,10,Rent & Utilities,9693.14
+Central,2025,10,Salaries & Wages,21368.98
+Central,2025,11,Depreciation & Amortization,2867.32
+Central,2025,11,Salaries & Wages,20124.94
+Central,2025,11,Rent & Utilities,9607.21
+Central,2025,11,Other Admin,2117.1
+Central,2025,11,Marketing,4263.75
+Central,2025,11,Logistics,3301.02
+Central,2025,12,Salaries & Wages,20461.82
+Central,2025,12,Rent & Utilities,9505.54
+Central,2025,12,Marketing,4092.01
+Central,2025,12,Logistics,3306.65
+Central,2025,12,Other Admin,2146.7
+Central,2025,12,Depreciation & Amortization,3041.79
+East,2024,1,Salaries & Wages,19808.29
+East,2024,1,Rent & Utilities,9163.97
+East,2024,1,Marketing,3834.01
+East,2024,1,Logistics,3074.56
+East,2024,1,Depreciation & Amortization,2841.66
+East,2024,1,Other Admin,1978.09
+East,2024,2,Salaries & Wages,18582.97
+East,2024,2,Rent & Utilities,8791.32
+East,2024,2,Marketing,3874.6
+East,2024,2,Logistics,3328.53
+East,2024,2,Depreciation & Amortization,2846.55
+East,2024,2,Other Admin,2046.4
+East,2024,3,Salaries & Wages,19679.23
+East,2024,3,Rent & Utilities,9227.69
+East,2024,3,Marketing,4139.47
+East,2024,3,Logistics,3284.07
+East,2024,3,Depreciation & Amortization,2872.94
+East,2024,3,Other Admin,1931.6
+East,2024,4,Logistics,3236.17
+East,2024,4,Salaries & Wages,19014.47
+East,2024,4,Rent & Utilities,9080.63
+East,2024,4,Marketing,4100.05
+East,2024,4,Depreciation & Amortization,2683.89
+East,2024,4,Other Admin,1959.74
+East,2024,5,Salaries & Wages,18921.26
+East,2024,5,Rent & Utilities,9094.43
+East,2024,5,Marketing,4143.24
+East,2024,5,Logistics,3298.4
+East,2024,5,Depreciation & Amortization,2816.4
+East,2024,5,Other Admin,2084.98
+East,2024,6,Salaries & Wages,18798.47
+East,2024,6,Rent & Utilities,9155.28
+East,2024,6,Marketing,3819.73
+East,2024,6,Logistics,3057.55
+East,2024,6,Depreciation & Amortization,2829.9
+East,2024,6,Other Admin,1942.78
+East,2024,7,Salaries & Wages,18898.18
+East,2024,7,Rent & Utilities,8501.83
+East,2024,7,Marketing,3821.23
+East,2024,7,Logistics,3197.6
+East,2024,7,Depreciation & Amortization,2697.73
+East,2024,7,Other Admin,1952.74
+East,2024,8,Salaries & Wages,18720.6
+East,2024,8,Rent & Utilities,9072.17
+East,2024,8,Marketing,4119.4
+East,2024,8,Logistics,3108.4
+East,2024,8,Depreciation & Amortization,2733.6
+East,2024,8,Other Admin,1965.99
+East,2024,9,Salaries & Wages,19785.1
+East,2024,9,Rent & Utilities,8492.6
+East,2024,9,Marketing,3961.09
+East,2024,9,Logistics,3072.47
+East,2024,9,Depreciation & Amortization,2674.55
+East,2024,9,Other Admin,1942.14
+East,2024,10,Salaries & Wages,19782.73
+East,2024,10,Rent & Utilities,8484.26
+East,2024,10,Marketing,3962.01
+East,2024,10,Logistics,3165.13
+East,2024,10,Depreciation & Amortization,2938.25
+East,2024,10,Other Admin,2071.93
+East,2024,11,Salaries & Wages,19049.31
+East,2024,11,Rent & Utilities,8635.13
+East,2024,11,Marketing,3803.5
+East,2024,11,Logistics,3075.47
+East,2024,11,Depreciation & Amortization,2828.73
+East,2024,11,Other Admin,1993.16
+East,2024,12,Salaries & Wages,19317.55
+East,2024,12,Rent & Utilities,8924.64
+East,2024,12,Marketing,4026.93
+East,2024,12,Logistics,3244.76
+East,2024,12,Depreciation & Amortization,2731.14
+East,2024,12,Other Admin,2001.35
+East,2025,1,Salaries & Wages,19899.65
+East,2025,1,Rent & Utilities,9381.56
+East,2025,1,Marketing,4295.53
+East,2025,1,Logistics,3528.87
+East,2025,1,Depreciation & Amortization,3075.66
+East,2025,1,Other Admin,2072.9
+East,2025,2,Salaries & Wages,19837.45
+East,2025,2,Other Admin,2044.29
+East,2025,2,Depreciation & Amortization,3096.59
+East,2025,2,Logistics,3525.92
+East,2025,2,Marketing,4236.15
+East,2025,2,Rent & Utilities,9392.74
+East,2025,3,Other Admin,2089.56
+East,2025,3,Salaries & Wages,19497.36
+East,2025,3,Rent & Utilities,8866.28
+East,2025,3,Marketing,4358.91
+East,2025,3,Logistics,3244.64
+East,2025,3,Depreciation & Amortization,3059.34
+East,2025,4,Salaries & Wages,21312.74
+East,2025,4,Other Admin,2165.36
+East,2025,4,Depreciation & Amortization,3011.95
+East,2025,4,Logistics,3445.84
+East,2025,4,Marketing,4403.62
+East,2025,4,Rent & Utilities,9023.96
+East,2025,5,Depreciation & Amortization,2941.73
+East,2025,5,Salaries & Wages,20716.33
+East,2025,5,Rent & Utilities,9419.71
+East,2025,5,Marketing,4179.1
+East,2025,5,Logistics,3491.34
+East,2025,5,Other Admin,2063.29
+East,2025,6,Depreciation & Amortization,2880.88
+East,2025,6,Salaries & Wages,21231.79
+East,2025,6,Rent & Utilities,9734.23
+East,2025,6,Marketing,4162.38
+East,2025,6,Logistics,3455.94
+East,2025,6,Other Admin,2197.88
+East,2025,7,Depreciation & Amortization,3114.03
+East,2025,7,Salaries & Wages,20979.8
+East,2025,7,Rent & Utilities,9619.13
+East,2025,7,Marketing,4388.93
+East,2025,7,Logistics,3240.48
+East,2025,7,Other Admin,2095.37
+East,2025,8,Marketing,4216.64
+East,2025,8,Other Admin,2115.93
+East,2025,8,Depreciation & Amortization,2945.35
+East,2025,8,Logistics,3270.46
+East,2025,8,Rent & Utilities,9683.41
+East,2025,8,Salaries & Wages,20907.65
+East,2025,9,Other Admin,2146.92
+East,2025,9,Salaries & Wages,19471.6
+East,2025,9,Rent & Utilities,9678.03
+East,2025,9,Marketing,4320.21
+East,2025,9,Logistics,3300.89
+East,2025,9,Depreciation & Amortization,2824.23
+East,2025,10,Depreciation & Amortization,3070.52
+East,2025,10,Salaries & Wages,19949.49
+East,2025,10,Rent & Utilities,9585.59
+East,2025,10,Marketing,4065.98
+East,2025,10,Logistics,3253.23
+East,2025,10,Other Admin,2070.18
+East,2025,11,Other Admin,2120.56
+East,2025,11,Salaries & Wages,20333.5
+East,2025,11,Rent & Utilities,8957.64
+East,2025,11,Marketing,4216.17
+East,2025,11,Logistics,3460.72
+East,2025,11,Depreciation & Amortization,3055.23
+East,2025,12,Salaries & Wages,19680.53
+East,2025,12,Rent & Utilities,9429.6
+East,2025,12,Marketing,4418.67
+East,2025,12,Logistics,3340.28
+East,2025,12,Depreciation & Amortization,2991.69
+East,2025,12,Other Admin,2145.16
+North,2024,1,Rent & Utilities,8801.82
+North,2024,1,Other Admin,1903.42
+North,2024,1,Depreciation & Amortization,2802.83
+North,2024,1,Salaries & Wages,19703.94
+North,2024,1,Logistics,3105.44
+North,2024,1,Marketing,4184.58
+North,2024,2,Marketing,4164.29
+North,2024,2,Salaries & Wages,18674.65
+North,2024,2,Other Admin,2002.27
+North,2024,2,Depreciation & Amortization,2722.77
+North,2024,2,Logistics,3096.38
+North,2024,2,Rent & Utilities,8722.11
+North,2024,3,Rent & Utilities,8726.14
+North,2024,3,Other Admin,1908.8
+North,2024,3,Depreciation & Amortization,2806.28
+North,2024,3,Logistics,3121.33
+North,2024,3,Marketing,3823.59
+North,2024,3,Salaries & Wages,19118.05
+North,2024,4,Logistics,3047.97
+North,2024,4,Other Admin,1907.29
+North,2024,4,Salaries & Wages,18280.94
+North,2024,4,Rent & Utilities,9106.54
+North,2024,4,Marketing,3933.29
+North,2024,4,Depreciation & Amortization,2724.74
+North,2024,5,Salaries & Wages,19073.43
+North,2024,5,Other Admin,1957.92
+North,2024,5,Depreciation & Amortization,2903.61
+North,2024,5,Logistics,3139.44
+North,2024,5,Marketing,3810.13
+North,2024,5,Rent & Utilities,8700.24
+North,2024,6,Salaries & Wages,19159.33
+North,2024,6,Other Admin,2004.54
+North,2024,6,Depreciation & Amortization,2762.12
+North,2024,6,Logistics,3123.67
+North,2024,6,Marketing,4066.65
+North,2024,6,Rent & Utilities,8975.57
+North,2024,7,Salaries & Wages,20117.07
+North,2024,7,Other Admin,1938.24
+North,2024,7,Depreciation & Amortization,2889.35
+North,2024,7,Logistics,3253.12
+North,2024,7,Marketing,4008.04
+North,2024,7,Rent & Utilities,8615.83
+North,2024,8,Salaries & Wages,18575.2
+North,2024,8,Other Admin,1954.18
+North,2024,8,Depreciation & Amortization,2802.96
+North,2024,8,Logistics,3352.23
+North,2024,8,Marketing,4039.59
+North,2024,8,Rent & Utilities,8517.33
+North,2024,9,Rent & Utilities,8565.07
+North,2024,9,Other Admin,2099.25
+North,2024,9,Depreciation & Amortization,2928.98
+North,2024,9,Logistics,3106.02
+North,2024,9,Marketing,4030.64
+North,2024,9,Salaries & Wages,20118.44
+North,2024,10,Logistics,3180.33
+North,2024,10,Other Admin,2041.4
+North,2024,10,Depreciation & Amortization,2840.09
+North,2024,10,Marketing,4010.33
+North,2024,10,Rent & Utilities,8697.87
+North,2024,10,Salaries & Wages,19171.21
+North,2024,11,Other Admin,1924.79
+North,2024,11,Salaries & Wages,18331.96
+North,2024,11,Rent & Utilities,9062.59
+North,2024,11,Marketing,3872.46
+North,2024,11,Logistics,3158.9
+North,2024,11,Depreciation & Amortization,2664.98
+North,2024,12,Salaries & Wages,19567.29
+North,2024,12,Other Admin,1959.42
+North,2024,12,Depreciation & Amortization,2788.18
+North,2024,12,Logistics,3258.59
+North,2024,12,Marketing,4106.88
+North,2024,12,Rent & Utilities,8944.0
+North,2025,1,Rent & Utilities,9446.5
+North,2025,1,Marketing,4305.87
+North,2025,1,Logistics,3412.64
+North,2025,1,Salaries & Wages,19883.98
+North,2025,1,Depreciation & Amortization,2857.97
+North,2025,1,Other Admin,2113.94
+North,2025,2,Logistics,3409.46
+North,2025,2,Salaries & Wages,19403.49
+North,2025,2,Rent & Utilities,8981.05
+North,2025,2,Marketing,4040.51
+North,2025,2,Depreciation & Amortization,2951.4
+North,2025,2,Other Admin,2052.95
+North,2025,3,Salaries & Wages,20973.48
+North,2025,3,Rent & Utilities,9098.31
+North,2025,3,Marketing,4044.82
+North,2025,3,Logistics,3267.36
+North,2025,3,Depreciation & Amortization,3080.87
+North,2025,3,Other Admin,2102.54
+North,2025,4,Salaries & Wages,21254.63
+North,2025,4,Rent & Utilities,9325.1
+North,2025,4,Marketing,4191.54
+North,2025,4,Logistics,3260.2
+North,2025,4,Depreciation & Amortization,2968.19
+North,2025,4,Other Admin,2145.84
+North,2025,5,Salaries & Wages,21359.53
+North,2025,5,Rent & Utilities,9170.59
+North,2025,5,Marketing,4136.61
+North,2025,5,Logistics,3394.16
+North,2025,5,Depreciation & Amortization,3073.62
+North,2025,5,Other Admin,2104.97
+North,2025,6,Salaries & Wages,19714.4
+North,2025,6,Rent & Utilities,8885.36
+North,2025,6,Marketing,4077.98
+North,2025,6,Logistics,3322.73
+North,2025,6,Depreciation & Amortization,2962.04
+North,2025,6,Other Admin,2058.87
+North,2025,7,Salaries & Wages,20087.22
+North,2025,7,Rent & Utilities,9532.35
+North,2025,7,Marketing,4142.05
+North,2025,7,Logistics,3395.94
+North,2025,7,Depreciation & Amortization,2978.01
+North,2025,7,Other Admin,2015.17
+North,2025,8,Salaries & Wages,19965.4
+North,2025,8,Other Admin,2043.09
+North,2025,8,Depreciation & Amortization,2993.67
+North,2025,8,Logistics,3429.09
+North,2025,8,Marketing,4337.54
+North,2025,8,Rent & Utilities,8975.47
+North,2025,9,Salaries & Wages,20690.48
+North,2025,9,Other Admin,2022.86
+North,2025,9,Depreciation & Amortization,3081.67
+North,2025,9,Logistics,3334.54
+North,2025,9,Marketing,4399.43
+North,2025,9,Rent & Utilities,9747.27
+North,2025,10,Salaries & Wages,20888.49
+North,2025,10,Rent & Utilities,9172.84
+North,2025,10,Marketing,4413.34
+North,2025,10,Logistics,3387.82
+North,2025,10,Depreciation & Amortization,3089.04
+North,2025,10,Other Admin,2019.37
+North,2025,11,Salaries & Wages,21185.88
+North,2025,11,Rent & Utilities,8877.71
+North,2025,11,Marketing,4395.59
+North,2025,11,Logistics,3416.21
+North,2025,11,Depreciation & Amortization,2866.38
+North,2025,11,Other Admin,2059.58
+North,2025,12,Salaries & Wages,19944.08
+North,2025,12,Rent & Utilities,9575.74
+North,2025,12,Marketing,4082.3
+North,2025,12,Logistics,3367.74
+North,2025,12,Depreciation & Amortization,3100.89
+North,2025,12,Other Admin,2015.15
+South,2024,1,Logistics,3187.92
+South,2024,1,Salaries & Wages,18881.97
+South,2024,1,Rent & Utilities,8822.89
+South,2024,1,Marketing,3839.1
+South,2024,1,Depreciation & Amortization,2939.31
+South,2024,1,Other Admin,1924.42
+South,2024,2,Rent & Utilities,8589.27
+South,2024,2,Marketing,4168.3
+South,2024,2,Logistics,3272.86
+South,2024,2,Depreciation & Amortization,2895.09
+South,2024,2,Other Admin,2050.37
+South,2024,2,Salaries & Wages,19870.08
+South,2024,3,Other Admin,2042.3
+South,2024,3,Depreciation & Amortization,2760.36
+South,2024,3,Logistics,3256.76
+South,2024,3,Marketing,3992.01
+South,2024,3,Rent & Utilities,8930.26
+South,2024,3,Salaries & Wages,19897.74
+South,2024,4,Other Admin,2059.83
+South,2024,4,Depreciation & Amortization,2808.03
+South,2024,4,Logistics,3138.24
+South,2024,4,Marketing,4128.5
+South,2024,4,Rent & Utilities,8489.46
+South,2024,4,Salaries & Wages,19131.07
+South,2024,5,Depreciation & Amortization,2718.83
+South,2024,5,Logistics,3099.34
+South,2024,5,Marketing,3836.06
+South,2024,5,Salaries & Wages,18870.7
+South,2024,5,Rent & Utilities,8596.8
+South,2024,5,Other Admin,2088.93
+South,2024,6,Rent & Utilities,9108.22
+South,2024,6,Salaries & Wages,19912.25
+South,2024,6,Marketing,3887.93
+South,2024,6,Logistics,3242.09
+South,2024,6,Depreciation & Amortization,2817.59
+South,2024,6,Other Admin,2043.6
+South,2024,7,Salaries & Wages,19045.23
+South,2024,7,Rent & Utilities,8675.99
+South,2024,7,Marketing,4167.86
+South,2024,7,Logistics,3065.76
+South,2024,7,Depreciation & Amortization,2926.65
+South,2024,7,Other Admin,2057.0
+South,2024,8,Depreciation & Amortization,2800.06
+South,2024,8,Salaries & Wages,19201.89
+South,2024,8,Rent & Utilities,9048.9
+South,2024,8,Other Admin,2060.97
+South,2024,8,Marketing,4053.55
+South,2024,8,Logistics,3143.37
+South,2024,9,Marketing,4173.79
+South,2024,9,Other Admin,1973.5
+South,2024,9,Depreciation & Amortization,2791.01
+South,2024,9,Logistics,3132.86
+South,2024,9,Rent & Utilities,8827.08
+South,2024,9,Salaries & Wages,19731.21
+South,2024,10,Salaries & Wages,18965.45
+South,2024,10,Other Admin,2075.23
+South,2024,10,Depreciation & Amortization,2900.96
+South,2024,10,Logistics,3317.56
+South,2024,10,Marketing,3902.61
+South,2024,10,Rent & Utilities,8788.79
+South,2024,11,Salaries & Wages,18919.2
+South,2024,11,Other Admin,2090.21
+South,2024,11,Depreciation & Amortization,2861.4
+South,2024,11,Logistics,3334.55
+South,2024,11,Marketing,4154.04
+South,2024,11,Rent & Utilities,9022.64
+South,2024,12,Salaries & Wages,19369.53
+South,2024,12,Rent & Utilities,8926.65
+South,2024,12,Marketing,3823.98
+South,2024,12,Logistics,3078.73
+South,2024,12,Depreciation & Amortization,2865.93
+South,2024,12,Other Admin,2046.19
+South,2025,1,Other Admin,2095.19
+South,2025,1,Salaries & Wages,20198.58
+South,2025,1,Rent & Utilities,9346.16
+South,2025,1,Marketing,4375.56
+South,2025,1,Logistics,3280.08
+South,2025,1,Depreciation & Amortization,2866.8
+South,2025,2,Depreciation & Amortization,2969.85
+South,2025,2,Salaries & Wages,20224.23
+South,2025,2,Rent & Utilities,9225.73
+South,2025,2,Marketing,4382.61
+South,2025,2,Logistics,3489.58
+South,2025,2,Other Admin,2106.09
+South,2025,3,Rent & Utilities,9278.06
+South,2025,3,Salaries & Wages,19407.14
+South,2025,3,Other Admin,2166.03
+South,2025,3,Depreciation & Amortization,2989.36
+South,2025,3,Logistics,3560.46
+South,2025,3,Marketing,4035.01
+South,2025,4,Salaries & Wages,20764.54
+South,2025,4,Rent & Utilities,9603.63
+South,2025,4,Marketing,4143.51
+South,2025,4,Logistics,3481.17
+South,2025,4,Depreciation & Amortization,3022.69
+South,2025,4,Other Admin,2216.72
+South,2025,5,Other Admin,2063.7
+South,2025,5,Depreciation & Amortization,2960.19
+South,2025,5,Logistics,3478.72
+South,2025,5,Marketing,4319.57
+South,2025,5,Rent & Utilities,9733.62
+South,2025,5,Salaries & Wages,19686.71
+South,2025,6,Salaries & Wages,20016.18
+South,2025,6,Other Admin,2086.55
+South,2025,6,Depreciation & Amortization,2885.57
+South,2025,6,Logistics,3520.39
+South,2025,6,Marketing,4312.01
+South,2025,6,Rent & Utilities,9016.39
+South,2025,7,Rent & Utilities,9026.01
+South,2025,7,Salaries & Wages,19800.67
+South,2025,7,Marketing,4381.71
+South,2025,7,Logistics,3453.38
+South,2025,7,Depreciation & Amortization,2852.62
+South,2025,7,Other Admin,2116.78
+South,2025,8,Other Admin,2158.2
+South,2025,8,Salaries & Wages,19446.53
+South,2025,8,Rent & Utilities,9701.83
+South,2025,8,Marketing,4225.46
+South,2025,8,Logistics,3501.63
+South,2025,8,Depreciation & Amortization,3091.19
+South,2025,9,Other Admin,2081.82
+South,2025,9,Depreciation & Amortization,3057.61
+South,2025,9,Logistics,3243.33
+South,2025,9,Marketing,4342.7
+South,2025,9,Rent & Utilities,9564.58
+South,2025,9,Salaries & Wages,20831.4
+South,2025,10,Salaries & Wages,19843.19
+South,2025,10,Other Admin,2088.56
+South,2025,10,Depreciation & Amortization,3080.36
+South,2025,10,Logistics,3385.2
+South,2025,10,Marketing,4407.53
+South,2025,10,Rent & Utilities,9167.39
+South,2025,11,Other Admin,2093.81
+South,2025,11,Salaries & Wages,19665.5
+South,2025,11,Rent & Utilities,9596.63
+South,2025,11,Marketing,4264.01
+South,2025,11,Logistics,3522.85
+South,2025,11,Depreciation & Amortization,3089.72
+South,2025,12,Other Admin,2129.4
+South,2025,12,Depreciation & Amortization,2875.4
+South,2025,12,Logistics,3306.53
+South,2025,12,Marketing,4119.51
+South,2025,12,Rent & Utilities,8931.12
+South,2025,12,Salaries & Wages,19770.77
+West,2024,1,Other Admin,1916.04
+West,2024,1,Salaries & Wages,18653.76
+West,2024,1,Rent & Utilities,8487.22
+West,2024,1,Marketing,3937.16
+West,2024,1,Logistics,3228.67
+West,2024,1,Depreciation & Amortization,2731.26
+West,2024,2,Depreciation & Amortization,2697.0
+West,2024,2,Salaries & Wages,20145.69
+West,2024,2,Rent & Utilities,9106.13
+West,2024,2,Marketing,4115.88
+West,2024,2,Logistics,3169.74
+West,2024,2,Other Admin,2015.38
+West,2024,3,Depreciation & Amortization,2753.26
+West,2024,3,Salaries & Wages,19240.87
+West,2024,3,Rent & Utilities,9004.65
+West,2024,3,Marketing,4118.02
+West,2024,3,Logistics,3327.51
+West,2024,3,Other Admin,1963.09
+West,2024,4,Depreciation & Amortization,2780.03
+West,2024,4,Salaries & Wages,18435.78
+West,2024,4,Rent & Utilities,8966.98
+West,2024,4,Marketing,3809.07
+West,2024,4,Logistics,3040.95
+West,2024,4,Other Admin,2042.88
+West,2024,5,Depreciation & Amortization,2807.74
+West,2024,5,Salaries & Wages,19686.2
+West,2024,5,Rent & Utilities,8746.3
+West,2024,5,Marketing,4197.64
+West,2024,5,Logistics,3150.87
+West,2024,5,Other Admin,1960.6
+West,2024,6,Marketing,4171.59
+West,2024,6,Salaries & Wages,19934.75
+West,2024,6,Rent & Utilities,8365.3
+West,2024,6,Logistics,3061.65
+West,2024,6,Depreciation & Amortization,2679.74
+West,2024,6,Other Admin,1999.08
+West,2024,7,Other Admin,2089.01
+West,2024,7,Salaries & Wages,19532.3
+West,2024,7,Rent & Utilities,8454.01
+West,2024,7,Marketing,4104.65
+West,2024,7,Logistics,3319.06
+West,2024,7,Depreciation & Amortization,2908.69
+West,2024,8,Depreciation & Amortization,2935.18
+West,2024,8,Salaries & Wages,18431.11
+West,2024,8,Rent & Utilities,8854.39
+West,2024,8,Marketing,3818.05
+West,2024,8,Logistics,3068.21
+West,2024,8,Other Admin,1977.29
+West,2024,9,Depreciation & Amortization,2720.29
+West,2024,9,Salaries & Wages,19600.31
+West,2024,9,Rent & Utilities,8764.18
+West,2024,9,Marketing,4183.56
+West,2024,9,Logistics,3339.4
+West,2024,9,Other Admin,1998.32
+West,2024,10,Depreciation & Amortization,2888.8
+West,2024,10,Salaries & Wages,19032.06
+West,2024,10,Rent & Utilities,8685.73
+West,2024,10,Marketing,4018.11
+West,2024,10,Logistics,3103.44
+West,2024,10,Other Admin,2072.21
+West,2024,11,Logistics,3334.05
+West,2024,11,Salaries & Wages,19284.32
+West,2024,11,Rent & Utilities,9134.25
+West,2024,11,Other Admin,1926.46
+West,2024,11,Marketing,4114.36
+West,2024,11,Depreciation & Amortization,2861.88
+West,2024,12,Other Admin,1950.48
+West,2024,12,Depreciation & Amortization,2883.67
+West,2024,12,Logistics,3044.98
+West,2024,12,Marketing,3807.38
+West,2024,12,Rent & Utilities,8736.56
+West,2024,12,Salaries & Wages,18593.83
+West,2025,1,Other Admin,2066.35
+West,2025,1,Salaries & Wages,19441.99
+West,2025,1,Rent & Utilities,9172.54
+West,2025,1,Marketing,4225.48
+West,2025,1,Logistics,3387.35
+West,2025,1,Depreciation & Amortization,2898.85
+West,2025,2,Depreciation & Amortization,3105.84
+West,2025,2,Salaries & Wages,19831.25
+West,2025,2,Rent & Utilities,9547.64
+West,2025,2,Marketing,4354.09
+West,2025,2,Logistics,3335.95
+West,2025,2,Other Admin,2121.34
+West,2025,3,Depreciation & Amortization,2939.8
+West,2025,3,Salaries & Wages,19638.65
+West,2025,3,Rent & Utilities,9607.82
+West,2025,3,Marketing,4142.25
+West,2025,3,Logistics,3380.33
+West,2025,3,Other Admin,2017.07
+West,2025,4,Depreciation & Amortization,2829.07
+West,2025,4,Salaries & Wages,19913.8
+West,2025,4,Rent & Utilities,9694.47
+West,2025,4,Marketing,4263.47
+West,2025,4,Logistics,3432.1
+West,2025,4,Other Admin,2073.52
+West,2025,5,Depreciation & Amortization,3016.13
+West,2025,5,Salaries & Wages,20269.39
+West,2025,5,Rent & Utilities,8976.43
+West,2025,5,Marketing,4137.85
+West,2025,5,Logistics,3243.43
+West,2025,5,Other Admin,2049.76
+West,2025,6,Other Admin,2100.69
+West,2025,6,Salaries & Wages,20950.75
+West,2025,6,Rent & Utilities,9449.62
+West,2025,6,Marketing,4361.94
+West,2025,6,Logistics,3534.86
+West,2025,6,Depreciation & Amortization,3028.58
+West,2025,7,Other Admin,2107.07
+West,2025,7,Salaries & Wages,19387.47
+West,2025,7,Rent & Utilities,9493.9
+West,2025,7,Marketing,4306.5
+West,2025,7,Logistics,3538.35
+West,2025,7,Depreciation & Amortization,3008.79
+West,2025,8,Depreciation & Amortization,3080.49
+West,2025,8,Salaries & Wages,20854.57
+West,2025,8,Rent & Utilities,9363.86
+West,2025,8,Marketing,4067.04
+West,2025,8,Logistics,3272.06
+West,2025,8,Other Admin,2100.42
+West,2025,9,Depreciation & Amortization,3055.79
+West,2025,9,Salaries & Wages,19825.39
+West,2025,9,Rent & Utilities,8957.12
+West,2025,9,Marketing,4446.07
+West,2025,9,Logistics,3297.24
+West,2025,9,Other Admin,2020.72
+West,2025,10,Depreciation & Amortization,2987.51
+West,2025,10,Salaries & Wages,21199.14
+West,2025,10,Rent & Utilities,9189.96
+West,2025,10,Marketing,4076.07
+West,2025,10,Logistics,3545.76
+West,2025,10,Other Admin,2223.41
+West,2025,11,Depreciation & Amortization,2991.59
+West,2025,11,Salaries & Wages,20859.75
+West,2025,11,Rent & Utilities,9706.74
+West,2025,11,Marketing,4406.53
+West,2025,11,Logistics,3555.83
+West,2025,11,Other Admin,2055.03
+West,2025,12,Salaries & Wages,19896.44
+West,2025,12,Depreciation & Amortization,2959.91
+West,2025,12,Logistics,3472.62
+West,2025,12,Marketing,4091.66
+West,2025,12,Rent & Utilities,9453.98
+West,2025,12,Other Admin,2040.55

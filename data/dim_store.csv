@@ -1,0 +1,41 @@
+store_id,store_name,region_id,city,store_type,open_date
+1,NorthStar North #01,1,North Judithbury,Flagship,2017-07-24
+2,NorthStar North #02,1,Lake Joyside,Flagship,2016-08-10
+3,NorthStar North #03,1,Johnsonland,Standard,2017-07-12
+4,NorthStar North #04,1,New Jamesside,Standard,2018-12-08
+5,NorthStar North #05,1,Lawrencetown,Standard,2021-04-23
+6,NorthStar North #06,1,Lake Roberto,Standard,2017-12-11
+7,NorthStar North #07,1,Port Matthew,Flagship,2016-08-25
+8,NorthStar North #08,1,West Melanieview,Flagship,2021-08-25
+9,NorthStar South #01,2,Herrerafurt,Express,2016-07-20
+10,NorthStar South #02,2,Mariastad,Flagship,2020-01-15
+11,NorthStar South #03,2,North Donnaport,Flagship,2022-11-23
+12,NorthStar South #04,2,Port Craig,Flagship,2017-12-11
+13,NorthStar South #05,2,Franciscostad,Standard,2017-06-19
+14,NorthStar South #06,2,Jacquelineland,Standard,2020-04-05
+15,NorthStar South #07,2,New Jessica,Flagship,2017-02-21
+16,NorthStar South #08,2,Nelsonside,Standard,2017-07-15
+17,NorthStar East #01,3,Meganton,Express,2017-08-08
+18,NorthStar East #02,3,Port Leslieview,Standard,2016-06-18
+19,NorthStar East #03,3,Jasonfort,Express,2018-10-08
+20,NorthStar East #04,3,Thomasberg,Standard,2017-09-22
+21,NorthStar East #05,3,Juliechester,Flagship,2022-04-13
+22,NorthStar East #06,3,Coxberg,Standard,2019-07-26
+23,NorthStar East #07,3,Port Brandonville,Express,2017-01-25
+24,NorthStar East #08,3,Port Erin,Standard,2020-03-04
+25,NorthStar West #01,4,Jamesmouth,Standard,2019-09-14
+26,NorthStar West #02,4,Lake Jenniferside,Standard,2021-04-03
+27,NorthStar West #03,4,Danielchester,Standard,2017-02-08
+28,NorthStar West #04,4,Lake Nancyview,Standard,2022-10-20
+29,NorthStar West #05,4,New Rita,Flagship,2022-02-03
+30,NorthStar West #06,4,Meaganhaven,Flagship,2020-04-05
+31,NorthStar West #07,4,West Kathryn,Express,2019-10-10
+32,NorthStar West #08,4,New Mariotown,Flagship,2016-10-12
+33,NorthStar Central #01,5,Natashaport,Standard,2017-09-04
+34,NorthStar Central #02,5,New Stacey,Standard,2016-08-06
+35,NorthStar Central #03,5,Cabreraside,Standard,2021-05-11
+36,NorthStar Central #04,5,Lake Thomas,Flagship,2019-11-06
+37,NorthStar Central #05,5,Allisonchester,Express,2022-09-30
+38,NorthStar Central #06,5,Lake Larry,Flagship,2022-12-18
+39,NorthStar Central #07,5,Samuelhaven,Express,2019-02-27
+40,NorthStar Central #08,5,East Caleb,Flagship,2016-02-23

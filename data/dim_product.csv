@@ -1,0 +1,301 @@
+product_id,product_name,department_id,category,unit_cost,unit_price
+1,Wearables Item 001,1,Wearables,165.45,309.87
+2,Laptops & Tablets Item 002,1,Laptops & Tablets,299.5,502.94
+3,Wearables Item 003,1,Wearables,83.51,119.9
+4,Laptops & Tablets Item 004,1,Laptops & Tablets,46.78,85.44
+5,Wearables Item 005,1,Wearables,250.42,435.59
+6,Audio Item 006,1,Audio,32.72,61.63
+7,Mobile Accessories Item 007,1,Mobile Accessories,337.17,494.56
+8,Mobile Accessories Item 008,1,Mobile Accessories,93.18,135.19
+9,Audio Item 009,1,Audio,139.09,227.92
+10,Laptops & Tablets Item 010,1,Laptops & Tablets,186.98,282.37
+11,Mobile Accessories Item 011,1,Mobile Accessories,254.44,363.02
+12,Audio Item 012,1,Audio,134.55,208.75
+13,Mobile Accessories Item 013,1,Mobile Accessories,196.03,349.3
+14,Smart Home Item 014,1,Smart Home,99.88,163.09
+15,Laptops & Tablets Item 015,1,Laptops & Tablets,247.16,339.98
+16,Smart Home Item 016,1,Smart Home,252.83,365.03
+17,Laptops & Tablets Item 017,1,Laptops & Tablets,49.39,92.45
+18,Audio Item 018,1,Audio,387.11,694.71
+19,Laptops & Tablets Item 019,1,Laptops & Tablets,139.23,195.44
+20,Laptops & Tablets Item 020,1,Laptops & Tablets,281.59,448.31
+21,Audio Item 021,1,Audio,70.76,114.8
+22,Laptops & Tablets Item 022,1,Laptops & Tablets,37.9,70.12
+23,Mobile Accessories Item 023,1,Mobile Accessories,122.04,209.22
+24,Wearables Item 024,1,Wearables,141.89,232.14
+25,Audio Item 025,1,Audio,230.02,333.91
+26,Wearables Item 026,1,Wearables,388.59,690.26
+27,Audio Item 027,1,Audio,377.31,695.06
+28,Audio Item 028,1,Audio,249.21,462.79
+29,Smart Home Item 029,1,Smart Home,58.18,84.81
+30,Smart Home Item 030,1,Smart Home,41.96,64.15
+31,Laptops & Tablets Item 031,1,Laptops & Tablets,170.75,256.0
+32,Wearables Item 032,1,Wearables,335.78,519.19
+33,Audio Item 033,1,Audio,130.35,214.88
+34,Laptops & Tablets Item 034,1,Laptops & Tablets,77.85,139.45
+35,Mobile Accessories Item 035,1,Mobile Accessories,52.96,100.24
+36,Audio Item 036,1,Audio,314.59,459.08
+37,Mobile Accessories Item 037,1,Mobile Accessories,27.07,48.69
+38,Laptops & Tablets Item 038,1,Laptops & Tablets,290.07,507.9
+39,Smart Home Item 039,1,Smart Home,314.23,437.01
+40,Laptops & Tablets Item 040,1,Laptops & Tablets,159.42,225.38
+41,Mobile Accessories Item 041,1,Mobile Accessories,348.66,590.22
+42,Audio Item 042,1,Audio,149.09,206.48
+43,Wearables Item 043,1,Wearables,141.62,216.52
+44,Laptops & Tablets Item 044,1,Laptops & Tablets,298.6,507.82
+45,Audio Item 045,1,Audio,357.7,575.8
+46,Smart Home Item 046,1,Smart Home,69.85,121.7
+47,Smart Home Item 047,1,Smart Home,310.29,514.68
+48,Smart Home Item 048,1,Smart Home,314.11,509.36
+49,Audio Item 049,1,Audio,221.02,350.35
+50,Laptops & Tablets Item 050,1,Laptops & Tablets,34.53,48.66
+51,Audio Item 051,1,Audio,36.79,62.54
+52,Audio Item 052,1,Audio,142.88,232.85
+53,Wearables Item 053,1,Wearables,365.34,543.3
+54,Wearables Item 054,1,Wearables,178.89,315.84
+55,Laptops & Tablets Item 055,1,Laptops & Tablets,110.8,154.27
+56,Wearables Item 056,1,Wearables,133.66,192.29
+57,Smart Home Item 057,1,Smart Home,373.64,670.48
+58,Wearables Item 058,1,Wearables,262.53,480.25
+59,Smart Home Item 059,1,Smart Home,326.38,474.1
+60,Laptops & Tablets Item 060,1,Laptops & Tablets,359.71,592.31
+61,Women's Wear Item 001,2,Women's Wear,49.99,115.82
+62,Women's Wear Item 002,2,Women's Wear,24.54,41.42
+63,Accessories Item 003,2,Accessories,19.85,38.54
+64,Footwear Item 004,2,Footwear,50.54,115.67
+65,Men's Wear Item 005,2,Men's Wear,8.36,16.79
+66,Men's Wear Item 006,2,Men's Wear,29.71,52.82
+67,Men's Wear Item 007,2,Men's Wear,14.23,26.61
+68,Women's Wear Item 008,2,Women's Wear,57.03,105.99
+69,Women's Wear Item 009,2,Women's Wear,34.98,75.64
+70,Footwear Item 010,2,Footwear,26.91,63.98
+71,Accessories Item 011,2,Accessories,58.05,104.57
+72,Men's Wear Item 012,2,Men's Wear,33.86,62.33
+73,Footwear Item 013,2,Footwear,22.81,37.17
+74,Footwear Item 014,2,Footwear,39.7,79.49
+75,Accessories Item 015,2,Accessories,10.68,19.47
+76,Footwear Item 016,2,Footwear,55.23,98.95
+77,Accessories Item 017,2,Accessories,15.53,30.93
+78,Kids Wear Item 018,2,Kids Wear,59.25,106.27
+79,Accessories Item 019,2,Accessories,42.95,94.89
+80,Men's Wear Item 020,2,Men's Wear,20.36,44.44
+81,Men's Wear Item 021,2,Men's Wear,27.12,57.11
+82,Accessories Item 022,2,Accessories,40.94,83.05
+83,Kids Wear Item 023,2,Kids Wear,12.7,28.81
+84,Kids Wear Item 024,2,Kids Wear,24.68,43.17
+85,Men's Wear Item 025,2,Men's Wear,10.12,20.98
+86,Kids Wear Item 026,2,Kids Wear,43.23,69.74
+87,Footwear Item 027,2,Footwear,34.63,61.68
+88,Women's Wear Item 028,2,Women's Wear,41.55,72.28
+89,Footwear Item 029,2,Footwear,43.93,83.88
+90,Men's Wear Item 030,2,Men's Wear,56.71,96.98
+91,Kids Wear Item 031,2,Kids Wear,25.74,43.52
+92,Accessories Item 032,2,Accessories,56.08,129.09
+93,Women's Wear Item 033,2,Women's Wear,21.41,45.56
+94,Accessories Item 034,2,Accessories,50.5,103.23
+95,Men's Wear Item 035,2,Men's Wear,35.54,63.74
+96,Kids Wear Item 036,2,Kids Wear,12.84,29.76
+97,Accessories Item 037,2,Accessories,54.82,115.48
+98,Accessories Item 038,2,Accessories,25.63,48.17
+99,Women's Wear Item 039,2,Women's Wear,45.75,106.03
+100,Women's Wear Item 040,2,Women's Wear,54.13,120.38
+101,Kids Wear Item 041,2,Kids Wear,41.39,69.01
+102,Women's Wear Item 042,2,Women's Wear,16.4,38.03
+103,Accessories Item 043,2,Accessories,39.53,63.54
+104,Accessories Item 044,2,Accessories,13.28,28.3
+105,Men's Wear Item 045,2,Men's Wear,8.26,14.28
+106,Accessories Item 046,2,Accessories,36.53,78.67
+107,Kids Wear Item 047,2,Kids Wear,41.9,74.56
+108,Footwear Item 048,2,Footwear,45.03,80.59
+109,Men's Wear Item 049,2,Men's Wear,24.92,54.75
+110,Men's Wear Item 050,2,Men's Wear,41.78,95.23
+111,Kids Wear Item 051,2,Kids Wear,42.2,86.71
+112,Kids Wear Item 052,2,Kids Wear,12.87,24.38
+113,Women's Wear Item 053,2,Women's Wear,21.79,39.12
+114,Men's Wear Item 054,2,Men's Wear,58.6,112.19
+115,Women's Wear Item 055,2,Women's Wear,54.39,114.49
+116,Accessories Item 056,2,Accessories,49.33,98.76
+117,Men's Wear Item 057,2,Men's Wear,38.0,75.77
+118,Men's Wear Item 058,2,Men's Wear,18.15,39.53
+119,Footwear Item 059,2,Footwear,22.6,36.6
+120,Men's Wear Item 060,2,Men's Wear,41.56,72.38
+121,Storage Item 001,3,Storage,236.01,465.5
+122,Kitchenware Item 002,3,Kitchenware,229.99,373.07
+123,Kitchenware Item 003,3,Kitchenware,18.63,36.46
+124,Bedding Item 004,3,Bedding,115.62,228.93
+125,Storage Item 005,3,Storage,241.45,461.61
+126,Kitchenware Item 006,3,Kitchenware,84.2,137.34
+127,Decor Item 007,3,Decor,215.02,341.91
+128,Storage Item 008,3,Storage,54.83,95.08
+129,Storage Item 009,3,Storage,235.0,427.14
+130,Bedding Item 010,3,Bedding,148.96,217.23
+131,Kitchenware Item 011,3,Kitchenware,159.53,318.11
+132,Storage Item 012,3,Storage,47.92,81.99
+133,Kitchenware Item 013,3,Kitchenware,221.18,407.96
+134,Decor Item 014,3,Decor,178.8,325.68
+135,Bedding Item 015,3,Bedding,99.48,156.8
+136,Decor Item 016,3,Decor,205.2,387.02
+137,Bedding Item 017,3,Bedding,218.76,426.13
+138,Storage Item 018,3,Storage,135.17,229.91
+139,Bedding Item 019,3,Bedding,202.6,362.65
+140,Furniture Item 020,3,Furniture,179.96,337.87
+141,Kitchenware Item 021,3,Kitchenware,224.15,359.27
+142,Kitchenware Item 022,3,Kitchenware,103.26,150.39
+143,Furniture Item 023,3,Furniture,150.9,214.51
+144,Decor Item 024,3,Decor,124.42,214.7
+145,Furniture Item 025,3,Furniture,82.34,144.47
+146,Storage Item 026,3,Storage,22.17,31.53
+147,Storage Item 027,3,Storage,208.31,336.65
+148,Kitchenware Item 028,3,Kitchenware,44.86,76.86
+149,Storage Item 029,3,Storage,195.95,299.7
+150,Kitchenware Item 030,3,Kitchenware,161.38,234.2
+151,Furniture Item 031,3,Furniture,27.15,46.67
+152,Furniture Item 032,3,Furniture,142.05,253.2
+153,Furniture Item 033,3,Furniture,185.63,368.57
+154,Kitchenware Item 034,3,Kitchenware,136.33,217.28
+155,Furniture Item 035,3,Furniture,201.87,315.42
+156,Furniture Item 036,3,Furniture,118.16,170.99
+157,Decor Item 037,3,Decor,20.96,41.45
+158,Furniture Item 038,3,Furniture,211.46,384.35
+159,Storage Item 039,3,Storage,111.1,167.09
+160,Kitchenware Item 040,3,Kitchenware,51.76,80.24
+161,Decor Item 041,3,Decor,144.07,263.47
+162,Bedding Item 042,3,Bedding,170.15,266.79
+163,Kitchenware Item 043,3,Kitchenware,239.39,441.13
+164,Storage Item 044,3,Storage,145.27,256.7
+165,Kitchenware Item 045,3,Kitchenware,113.61,175.94
+166,Storage Item 046,3,Storage,98.65,182.97
+167,Storage Item 047,3,Storage,18.38,27.01
+168,Bedding Item 048,3,Bedding,25.81,36.76
+169,Kitchenware Item 049,3,Kitchenware,216.03,393.65
+170,Bedding Item 050,3,Bedding,126.43,184.42
+171,Bedding Item 051,3,Bedding,130.53,219.82
+172,Kitchenware Item 052,3,Kitchenware,55.7,92.48
+173,Furniture Item 053,3,Furniture,108.65,192.26
+174,Furniture Item 054,3,Furniture,164.25,234.41
+175,Bedding Item 055,3,Bedding,103.03,182.93
+176,Decor Item 056,3,Decor,133.24,255.01
+177,Bedding Item 057,3,Bedding,169.79,254.3
+178,Bedding Item 058,3,Bedding,31.58,56.38
+179,Bedding Item 059,3,Bedding,21.23,37.18
+180,Furniture Item 060,3,Furniture,235.95,411.8
+181,Packaged Foods Item 001,4,Packaged Foods,7.05,9.24
+182,Packaged Foods Item 002,4,Packaged Foods,7.96,10.24
+183,Fresh Produce Item 003,4,Fresh Produce,14.24,17.75
+184,Snacks Item 004,4,Snacks,14.5,19.96
+185,Packaged Foods Item 005,4,Packaged Foods,4.55,5.31
+186,Beverages Item 006,4,Beverages,3.31,3.82
+187,Beverages Item 007,4,Beverages,3.23,4.27
+188,Beverages Item 008,4,Beverages,2.93,3.6
+189,Dairy Item 009,4,Dairy,12.98,15.0
+190,Fresh Produce Item 010,4,Fresh Produce,12.59,15.37
+191,Beverages Item 011,4,Beverages,3.54,4.69
+192,Fresh Produce Item 012,4,Fresh Produce,10.18,13.94
+193,Beverages Item 013,4,Beverages,11.56,15.62
+194,Snacks Item 014,4,Snacks,5.67,6.77
+195,Fresh Produce Item 015,4,Fresh Produce,11.76,15.9
+196,Beverages Item 016,4,Beverages,14.88,18.65
+197,Packaged Foods Item 017,4,Packaged Foods,6.84,9.19
+198,Fresh Produce Item 018,4,Fresh Produce,6.43,8.89
+199,Dairy Item 019,4,Dairy,13.16,16.55
+200,Packaged Foods Item 020,4,Packaged Foods,11.76,15.74
+201,Packaged Foods Item 021,4,Packaged Foods,3.34,4.59
+202,Dairy Item 022,4,Dairy,8.57,11.63
+203,Packaged Foods Item 023,4,Packaged Foods,6.16,8.46
+204,Packaged Foods Item 024,4,Packaged Foods,7.06,8.14
+205,Beverages Item 025,4,Beverages,13.77,16.15
+206,Beverages Item 026,4,Beverages,6.15,8.53
+207,Fresh Produce Item 027,4,Fresh Produce,14.36,18.57
+208,Fresh Produce Item 028,4,Fresh Produce,10.21,12.89
+209,Fresh Produce Item 029,4,Fresh Produce,5.81,7.16
+210,Beverages Item 030,4,Beverages,10.74,14.37
+211,Fresh Produce Item 031,4,Fresh Produce,12.29,16.56
+212,Packaged Foods Item 032,4,Packaged Foods,3.19,4.06
+213,Beverages Item 033,4,Beverages,2.75,3.54
+214,Fresh Produce Item 034,4,Fresh Produce,7.74,10.62
+215,Packaged Foods Item 035,4,Packaged Foods,6.56,7.74
+216,Fresh Produce Item 036,4,Fresh Produce,3.86,5.17
+217,Snacks Item 037,4,Snacks,10.04,11.8
+218,Fresh Produce Item 038,4,Fresh Produce,3.09,4.09
+219,Snacks Item 039,4,Snacks,2.95,4.0
+220,Fresh Produce Item 040,4,Fresh Produce,11.18,13.08
+221,Dairy Item 041,4,Dairy,3.1,4.33
+222,Fresh Produce Item 042,4,Fresh Produce,6.87,8.54
+223,Beverages Item 043,4,Beverages,12.57,17.43
+224,Beverages Item 044,4,Beverages,14.82,19.83
+225,Snacks Item 045,4,Snacks,6.89,8.07
+226,Beverages Item 046,4,Beverages,12.1,15.6
+227,Packaged Foods Item 047,4,Packaged Foods,7.51,10.34
+228,Dairy Item 048,4,Dairy,3.45,4.39
+229,Dairy Item 049,4,Dairy,2.15,2.72
+230,Packaged Foods Item 050,4,Packaged Foods,2.73,3.22
+231,Snacks Item 051,4,Snacks,3.53,4.63
+232,Packaged Foods Item 052,4,Packaged Foods,11.7,15.16
+233,Packaged Foods Item 053,4,Packaged Foods,14.51,18.05
+234,Dairy Item 054,4,Dairy,5.71,7.81
+235,Fresh Produce Item 055,4,Fresh Produce,4.91,6.83
+236,Dairy Item 056,4,Dairy,2.16,3.01
+237,Dairy Item 057,4,Dairy,2.56,3.51
+238,Beverages Item 058,4,Beverages,8.86,12.39
+239,Packaged Foods Item 059,4,Packaged Foods,2.96,3.81
+240,Dairy Item 060,4,Dairy,14.6,18.7
+241,Skincare Item 001,5,Skincare,30.18,59.97
+242,Haircare Item 002,5,Haircare,23.18,44.95
+243,Skincare Item 003,5,Skincare,28.37,60.45
+244,Personal Care Item 004,5,Personal Care,6.82,11.57
+245,Skincare Item 005,5,Skincare,43.02,91.34
+246,Haircare Item 006,5,Haircare,23.23,44.93
+247,Fragrance Item 007,5,Fragrance,16.1,26.27
+248,Skincare Item 008,5,Skincare,23.55,41.15
+249,Personal Care Item 009,5,Personal Care,28.35,44.07
+250,Haircare Item 010,5,Haircare,43.98,96.33
+251,Personal Care Item 011,5,Personal Care,32.93,61.75
+252,Personal Care Item 012,5,Personal Care,17.38,35.97
+253,Skincare Item 013,5,Skincare,32.39,52.27
+254,Personal Care Item 014,5,Personal Care,41.44,86.02
+255,Skincare Item 015,5,Skincare,42.99,86.32
+256,Fragrance Item 016,5,Fragrance,29.54,52.96
+257,Personal Care Item 017,5,Personal Care,42.31,89.12
+258,Personal Care Item 018,5,Personal Care,6.81,10.34
+259,Personal Care Item 019,5,Personal Care,20.06,41.47
+260,Makeup Item 020,5,Makeup,44.49,71.42
+261,Makeup Item 021,5,Makeup,28.77,50.83
+262,Haircare Item 022,5,Haircare,43.8,91.52
+263,Makeup Item 023,5,Makeup,38.53,70.44
+264,Haircare Item 024,5,Haircare,21.59,36.52
+265,Makeup Item 025,5,Makeup,7.26,15.28
+266,Fragrance Item 026,5,Fragrance,37.52,82.54
+267,Haircare Item 027,5,Haircare,44.87,84.75
+268,Makeup Item 028,5,Makeup,35.76,77.29
+269,Fragrance Item 029,5,Fragrance,38.99,65.24
+270,Makeup Item 030,5,Makeup,23.02,36.61
+271,Skincare Item 031,5,Skincare,43.16,83.05
+272,Skincare Item 032,5,Skincare,14.15,27.88
+273,Fragrance Item 033,5,Fragrance,29.73,52.05
+274,Personal Care Item 034,5,Personal Care,9.54,18.79
+275,Personal Care Item 035,5,Personal Care,25.81,52.67
+276,Skincare Item 036,5,Skincare,25.81,54.11
+277,Skincare Item 037,5,Skincare,27.08,51.25
+278,Personal Care Item 038,5,Personal Care,40.07,71.42
+279,Haircare Item 039,5,Haircare,10.36,15.75
+280,Personal Care Item 040,5,Personal Care,35.21,68.1
+281,Makeup Item 041,5,Makeup,33.16,54.68
+282,Haircare Item 042,5,Haircare,10.45,15.78
+283,Makeup Item 043,5,Makeup,19.02,36.38
+284,Skincare Item 044,5,Skincare,20.69,37.37
+285,Haircare Item 045,5,Haircare,41.17,71.79
+286,Makeup Item 046,5,Makeup,25.56,52.36
+287,Makeup Item 047,5,Makeup,20.86,40.37
+288,Haircare Item 048,5,Haircare,39.49,85.48
+289,Fragrance Item 049,5,Fragrance,10.88,23.38
+290,Personal Care Item 050,5,Personal Care,24.68,41.48
+291,Makeup Item 051,5,Makeup,23.37,51.09
+292,Personal Care Item 052,5,Personal Care,24.7,42.73
+293,Personal Care Item 053,5,Personal Care,30.34,50.61
+294,Skincare Item 054,5,Skincare,8.03,12.77
+295,Personal Care Item 055,5,Personal Care,10.12,16.26
+296,Makeup Item 056,5,Makeup,10.55,20.56
+297,Skincare Item 057,5,Skincare,12.28,21.39
+298,Haircare Item 058,5,Haircare,40.87,74.86
+299,Makeup Item 059,5,Makeup,31.7,51.37
+300,Skincare Item 060,5,Skincare,12.69,19.4

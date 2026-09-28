@@ -1,0 +1,601 @@
+Region,Department,Year,Month,MonthlyCOGS,TotalInventoryValue
+Central,Apparel,2024,1,4357.23,22302.46
+Central,Apparel,2024,2,3126.59,25428.34
+Central,Apparel,2024,3,2817.7,28741.52
+Central,Apparel,2024,4,2623.86,32006.49
+Central,Apparel,2024,5,3505.21,35146.7
+Central,Apparel,2024,6,4040.66,38530.7
+Central,Apparel,2024,7,2305.06,41989.65
+Central,Apparel,2024,8,4228.0,45392.96
+Central,Apparel,2024,9,4595.28,48806.8
+Central,Apparel,2024,10,3247.41,52264.94
+Central,Apparel,2024,11,4783.29,55557.68
+Central,Apparel,2024,12,3654.94,58867.39
+Central,Apparel,2025,1,3846.74,62234.55
+Central,Apparel,2025,2,3382.31,65921.09
+Central,Apparel,2025,3,3188.36,69789.88
+Central,Apparel,2025,4,5117.86,73166.02
+Central,Apparel,2025,5,4047.78,76496.74
+Central,Apparel,2025,6,4323.49,79968.23
+Central,Apparel,2025,7,4042.61,83365.38
+Central,Apparel,2025,8,4505.6,86679.8
+Central,Apparel,2025,9,4963.6,90129.77
+Central,Apparel,2025,10,4593.27,93832.2
+Central,Apparel,2025,11,5017.93,97417.32
+Central,Apparel,2025,12,5222.62,100712.05
+Central,Beauty & Personal Care,2024,1,2210.49,16693.71
+Central,Beauty & Personal Care,2024,2,2604.67,19313.31
+Central,Beauty & Personal Care,2024,3,2203.4,21949.67
+Central,Beauty & Personal Care,2024,4,2838.9,24582.6
+Central,Beauty & Personal Care,2024,5,3272.72,27068.95
+Central,Beauty & Personal Care,2024,6,2042.59,29614.95
+Central,Beauty & Personal Care,2024,7,2976.42,32198.53
+Central,Beauty & Personal Care,2024,8,2470.23,34836.63
+Central,Beauty & Personal Care,2024,9,2648.87,37464.42
+Central,Beauty & Personal Care,2024,10,2735.85,39911.16
+Central,Beauty & Personal Care,2024,11,3850.96,42302.69
+Central,Beauty & Personal Care,2024,12,3073.21,44814.28
+Central,Beauty & Personal Care,2025,1,2232.36,47156.45
+Central,Beauty & Personal Care,2025,2,2851.02,49522.09
+Central,Beauty & Personal Care,2025,3,2510.01,52149.52
+Central,Beauty & Personal Care,2025,4,3140.52,54716.18
+Central,Beauty & Personal Care,2025,5,3072.4,57169.77
+Central,Beauty & Personal Care,2025,6,2277.98,59704.05
+Central,Beauty & Personal Care,2025,7,2711.39,62249.49
+Central,Beauty & Personal Care,2025,8,3049.77,64839.44
+Central,Beauty & Personal Care,2025,9,3076.41,67460.55
+Central,Beauty & Personal Care,2025,10,3197.03,69883.2
+Central,Beauty & Personal Care,2025,11,4000.38,72251.1
+Central,Beauty & Personal Care,2025,12,3394.47,74460.03
+Central,Electronics,2024,1,17748.68,118491.15
+Central,Electronics,2024,2,16069.79,136732.58
+Central,Electronics,2024,3,18250.74,154839.0
+Central,Electronics,2024,4,17015.51,174072.49
+Central,Electronics,2024,5,19347.26,192629.24
+Central,Electronics,2024,6,22211.64,209705.73
+Central,Electronics,2024,7,16431.45,225687.63
+Central,Electronics,2024,8,22187.68,242334.96
+Central,Electronics,2024,9,18900.95,261200.34
+Central,Electronics,2024,10,18888.91,280363.43
+Central,Electronics,2024,11,23155.2,298829.74
+Central,Electronics,2024,12,28093.94,317439.08
+Central,Electronics,2025,1,16569.84,336133.62
+Central,Electronics,2025,2,17360.29,354068.5
+Central,Electronics,2025,3,21031.13,371761.38
+Central,Electronics,2025,4,19022.33,389348.81
+Central,Electronics,2025,5,23537.43,405542.14
+Central,Electronics,2025,6,20977.89,422664.15
+Central,Electronics,2025,7,29192.63,440170.58
+Central,Electronics,2025,8,18255.57,456045.25
+Central,Electronics,2025,9,19062.83,473613.45
+Central,Electronics,2025,10,26295.02,492843.16
+Central,Electronics,2025,11,27255.2,510669.91
+Central,Electronics,2025,12,32196.71,527879.72
+Central,Grocery,2024,1,772.6,5250.43
+Central,Grocery,2024,2,768.86,6052.45
+Central,Grocery,2024,3,488.9,6884.45
+Central,Grocery,2024,4,944.88,7739.13
+Central,Grocery,2024,5,828.39,8625.65
+Central,Grocery,2024,6,734.26,9495.13
+Central,Grocery,2024,7,891.39,10401.35
+Central,Grocery,2024,8,663.17,11232.03
+Central,Grocery,2024,9,738.4,11979.17
+Central,Grocery,2024,10,743.73,12824.29
+Central,Grocery,2024,11,938.08,13652.14
+Central,Grocery,2024,12,887.21,14404.24
+Central,Grocery,2025,1,1103.27,15153.89
+Central,Grocery,2025,2,819.58,15897.5
+Central,Grocery,2025,3,1106.8,16697.91
+Central,Grocery,2025,4,942.76,17571.71
+Central,Grocery,2025,5,1022.71,18416.09
+Central,Grocery,2025,6,1091.71,19278.15
+Central,Grocery,2025,7,966.4,20138.27
+Central,Grocery,2025,8,1075.24,20947.23
+Central,Grocery,2025,9,797.89,21740.54
+Central,Grocery,2025,10,903.0,22528.47
+Central,Grocery,2025,11,1418.77,23285.75
+Central,Grocery,2025,12,1341.92,24090.34
+Central,Home & Living,2024,1,10600.94,86112.52
+Central,Home & Living,2024,2,9375.8,99268.67
+Central,Home & Living,2024,3,11509.98,112755.02
+Central,Home & Living,2024,4,14637.97,125906.9
+Central,Home & Living,2024,5,12369.11,139240.37
+Central,Home & Living,2024,6,17496.91,154118.72
+Central,Home & Living,2024,7,10958.19,167787.43
+Central,Home & Living,2024,8,13587.4,180475.63
+Central,Home & Living,2024,9,15273.47,194521.69
+Central,Home & Living,2024,10,13047.82,208224.89
+Central,Home & Living,2024,11,18368.58,220851.95
+Central,Home & Living,2024,12,19399.91,232878.28
+Central,Home & Living,2025,1,15562.67,246041.52
+Central,Home & Living,2025,2,14762.89,259295.23
+Central,Home & Living,2025,3,16826.49,271745.82
+Central,Home & Living,2025,4,13832.51,284603.0
+Central,Home & Living,2025,5,16887.76,298576.74
+Central,Home & Living,2025,6,15039.84,312644.09
+Central,Home & Living,2025,7,13325.77,325754.2
+Central,Home & Living,2025,8,16329.52,339264.0
+Central,Home & Living,2025,9,18692.21,352278.12
+Central,Home & Living,2025,10,21575.09,365209.09
+Central,Home & Living,2025,11,18104.17,379031.64
+Central,Home & Living,2025,12,25444.85,392144.79
+East,Apparel,2024,1,3319.76,22201.29
+East,Apparel,2024,2,3575.54,25690.1
+East,Apparel,2024,3,3609.95,29361.19
+East,Apparel,2024,4,3787.13,32809.86
+East,Apparel,2024,5,3711.44,36078.23
+East,Apparel,2024,6,3446.29,39594.91
+East,Apparel,2024,7,3984.44,43214.33
+East,Apparel,2024,8,3465.27,46677.62
+East,Apparel,2024,9,3974.14,49845.9
+East,Apparel,2024,10,4895.5,53210.26
+East,Apparel,2024,11,4279.13,57089.2
+East,Apparel,2024,12,4461.08,60808.22
+East,Apparel,2025,1,4202.28,64198.98
+East,Apparel,2025,2,2849.79,67535.91
+East,Apparel,2025,3,3851.19,70682.07
+East,Apparel,2025,4,3978.77,73836.82
+East,Apparel,2025,5,5117.44,77204.65
+East,Apparel,2025,6,2672.73,80548.93
+East,Apparel,2025,7,3431.89,83983.07
+East,Apparel,2025,8,3747.39,87263.54
+East,Apparel,2025,9,4004.84,90618.19
+East,Apparel,2025,10,3995.82,94130.41
+East,Apparel,2025,11,4905.29,97486.55
+East,Apparel,2025,12,5110.3,100850.6
+East,Beauty & Personal Care,2024,1,3251.85,17023.4
+East,Beauty & Personal Care,2024,2,2644.47,19809.36
+East,Beauty & Personal Care,2024,3,2462.15,22341.14
+East,Beauty & Personal Care,2024,4,2447.03,24823.08
+East,Beauty & Personal Care,2024,5,3131.27,27107.98
+East,Beauty & Personal Care,2024,6,2971.5,29643.21
+East,Beauty & Personal Care,2024,7,2923.86,32218.65
+East,Beauty & Personal Care,2024,8,3190.0,34605.23
+East,Beauty & Personal Care,2024,9,2728.26,37074.53
+East,Beauty & Personal Care,2024,10,3401.41,39544.31
+East,Beauty & Personal Care,2024,11,3594.56,42139.79
+East,Beauty & Personal Care,2024,12,3403.12,44587.68
+East,Beauty & Personal Care,2025,1,3226.33,47097.83
+East,Beauty & Personal Care,2025,2,2350.51,49650.41
+East,Beauty & Personal Care,2025,3,2112.4,52102.44
+East,Beauty & Personal Care,2025,4,3071.59,54749.33
+East,Beauty & Personal Care,2025,5,2686.01,57400.74
+East,Beauty & Personal Care,2025,6,2562.9,59932.77
+East,Beauty & Personal Care,2025,7,2518.77,62521.0
+East,Beauty & Personal Care,2025,8,3372.28,65176.67
+East,Beauty & Personal Care,2025,9,3722.45,67713.01
+East,Beauty & Personal Care,2025,10,3148.46,70314.15
+East,Beauty & Personal Care,2025,11,4298.49,73030.87
+East,Beauty & Personal Care,2025,12,4707.93,75665.38
+East,Electronics,2024,1,13150.55,123313.12
+East,Electronics,2024,2,13307.84,140792.91
+East,Electronics,2024,3,15972.14,160933.18
+East,Electronics,2024,4,23164.93,181121.45
+East,Electronics,2024,5,22798.83,200228.85
+East,Electronics,2024,6,21534.64,219097.92
+East,Electronics,2024,7,16402.95,238843.36
+East,Electronics,2024,8,20366.76,258722.31
+East,Electronics,2024,9,30197.21,278807.59
+East,Electronics,2024,10,24183.44,299325.12
+East,Electronics,2024,11,28421.95,318253.84
+East,Electronics,2024,12,29114.31,337206.2
+East,Electronics,2025,1,24037.48,358299.8
+East,Electronics,2025,2,17579.35,379236.56
+East,Electronics,2025,3,24660.54,398550.38
+East,Electronics,2025,4,19872.5,417344.58
+East,Electronics,2025,5,24902.52,436086.58
+East,Electronics,2025,6,25003.49,455758.67
+East,Electronics,2025,7,26012.37,476203.59
+East,Electronics,2025,8,27780.26,496086.55
+East,Electronics,2025,9,20706.12,516366.33
+East,Electronics,2025,10,19281.13,534647.01
+East,Electronics,2025,11,34636.95,552586.91
+East,Electronics,2025,12,33042.07,572771.77
+East,Grocery,2024,1,756.85,4537.66
+East,Grocery,2024,2,506.48,5273.33
+East,Grocery,2024,3,810.75,5960.19
+East,Grocery,2024,4,747.47,6646.35
+East,Grocery,2024,5,914.62,7349.68
+East,Grocery,2024,6,790.28,8052.72
+East,Grocery,2024,7,720.98,8825.92
+East,Grocery,2024,8,739.39,9580.36
+East,Grocery,2024,9,792.93,10284.63
+East,Grocery,2024,10,894.91,10948.16
+East,Grocery,2024,11,1166.02,11600.44
+East,Grocery,2024,12,1125.88,12329.88
+East,Grocery,2025,1,704.28,13059.28
+East,Grocery,2025,2,669.67,13703.98
+East,Grocery,2025,3,787.17,14323.98
+East,Grocery,2025,4,704.52,14992.54
+East,Grocery,2025,5,873.84,15705.62
+East,Grocery,2025,6,899.93,16396.43
+East,Grocery,2025,7,746.47,17076.76
+East,Grocery,2025,8,673.05,17846.06
+East,Grocery,2025,9,992.18,18573.1
+East,Grocery,2025,10,780.12,19246.84
+East,Grocery,2025,11,984.99,19951.04
+East,Grocery,2025,12,948.19,20672.86
+East,Home & Living,2024,1,12909.36,87262.2
+East,Home & Living,2024,2,8264.19,99454.88
+East,Home & Living,2024,3,12300.97,113220.28
+East,Home & Living,2024,4,11647.52,127065.27
+East,Home & Living,2024,5,12513.26,139549.97
+East,Home & Living,2024,6,14219.8,153671.4
+East,Home & Living,2024,7,13751.58,166809.31
+East,Home & Living,2024,8,9667.06,178602.92
+East,Home & Living,2024,9,13695.07,192181.03
+East,Home & Living,2024,10,17829.71,206247.28
+East,Home & Living,2024,11,14154.95,219924.72
+East,Home & Living,2024,12,20734.25,233613.48
+East,Home & Living,2025,1,16045.92,246672.4
+East,Home & Living,2025,2,12488.62,259403.92
+East,Home & Living,2025,3,16576.6,272483.09
+East,Home & Living,2025,4,14748.39,285465.89
+East,Home & Living,2025,5,17214.49,298086.14
+East,Home & Living,2025,6,17922.83,310335.72
+East,Home & Living,2025,7,13887.76,322832.9
+East,Home & Living,2025,8,15372.84,336064.22
+East,Home & Living,2025,9,16397.72,349275.51
+East,Home & Living,2025,10,17871.2,362627.78
+East,Home & Living,2025,11,20163.59,375728.11
+East,Home & Living,2025,12,20979.23,387858.82
+North,Apparel,2024,1,2610.63,22710.41
+North,Apparel,2024,2,2518.58,26239.07
+North,Apparel,2024,3,3265.34,29858.02
+North,Apparel,2024,4,3825.74,33627.03
+North,Apparel,2024,5,3553.23,37274.81
+North,Apparel,2024,6,3696.51,40785.17
+North,Apparel,2024,7,3195.44,44304.32
+North,Apparel,2024,8,4079.49,48086.59
+North,Apparel,2024,9,3548.79,51786.49
+North,Apparel,2024,10,4275.49,55463.26
+North,Apparel,2024,11,5302.98,59129.34
+North,Apparel,2024,12,5199.63,62556.03
+North,Apparel,2025,1,3202.86,66156.14
+North,Apparel,2025,2,3124.03,69883.14
+North,Apparel,2025,3,3659.4,73392.88
+North,Apparel,2025,4,3528.94,76926.96
+North,Apparel,2025,5,5369.03,80202.14
+North,Apparel,2025,6,4082.07,83248.99
+North,Apparel,2025,7,4546.99,86640.89
+North,Apparel,2025,8,4202.2,90014.08
+North,Apparel,2025,9,4766.99,93544.08
+North,Apparel,2025,10,3403.99,97263.19
+North,Apparel,2025,11,5356.9,100707.86
+North,Apparel,2025,12,5443.15,103901.82
+North,Beauty & Personal Care,2024,1,2555.73,17378.06
+North,Beauty & Personal Care,2024,2,2304.05,20450.57
+North,Beauty & Personal Care,2024,3,2735.6,23182.3
+North,Beauty & Personal Care,2024,4,2668.15,25711.92
+North,Beauty & Personal Care,2024,5,3065.29,28300.78
+North,Beauty & Personal Care,2024,6,2719.5,30951.75
+North,Beauty & Personal Care,2024,7,2807.43,33559.91
+North,Beauty & Personal Care,2024,8,2394.27,36166.63
+North,Beauty & Personal Care,2024,9,2634.16,39005.76
+North,Beauty & Personal Care,2024,10,2591.52,41682.03
+North,Beauty & Personal Care,2024,11,3134.03,44179.72
+North,Beauty & Personal Care,2024,12,3521.93,46696.62
+North,Beauty & Personal Care,2025,1,2514.51,49508.53
+North,Beauty & Personal Care,2025,2,2390.89,52510.07
+North,Beauty & Personal Care,2025,3,3794.83,55451.8
+North,Beauty & Personal Care,2025,4,2849.26,58173.6
+North,Beauty & Personal Care,2025,5,2799.72,60683.89
+North,Beauty & Personal Care,2025,6,2885.45,63182.36
+North,Beauty & Personal Care,2025,7,2805.67,65702.08
+North,Beauty & Personal Care,2025,8,2750.84,68200.43
+North,Beauty & Personal Care,2025,9,3122.22,70588.08
+North,Beauty & Personal Care,2025,10,3722.14,73071.01
+North,Beauty & Personal Care,2025,11,3721.01,75835.1
+North,Beauty & Personal Care,2025,12,4768.34,78853.57
+North,Electronics,2024,1,19239.5,128943.28
+North,Electronics,2024,2,17895.75,149329.49
+North,Electronics,2024,3,18072.27,168164.5
+North,Electronics,2024,4,20801.01,185179.37
+North,Electronics,2024,5,23346.4,202080.43
+North,Electronics,2024,6,23397.11,219650.52
+North,Electronics,2024,7,23130.71,238613.54
+North,Electronics,2024,8,16837.83,259595.92
+North,Electronics,2024,9,24810.28,280309.0
+North,Electronics,2024,10,23508.18,299171.93
+North,Electronics,2024,11,19434.4,319440.81
+North,Electronics,2024,12,30708.21,340461.88
+North,Electronics,2025,1,18248.24,360379.76
+North,Electronics,2025,2,20307.71,380690.28
+North,Electronics,2025,3,21532.47,401660.28
+North,Electronics,2025,4,26644.68,422610.82
+North,Electronics,2025,5,26168.36,441652.41
+North,Electronics,2025,6,23207.68,460527.3
+North,Electronics,2025,7,17230.31,479855.67
+North,Electronics,2025,8,25762.7,499237.37
+North,Electronics,2025,9,25082.76,517190.73
+North,Electronics,2025,10,27774.62,534686.69
+North,Electronics,2025,11,26880.2,553792.3
+North,Electronics,2025,12,28314.74,574569.9
+North,Grocery,2024,1,673.82,4463.61
+North,Grocery,2024,2,410.7,5171.03
+North,Grocery,2024,3,637.78,5884.26
+North,Grocery,2024,4,701.93,6619.22
+North,Grocery,2024,5,815.09,7323.75
+North,Grocery,2024,6,679.1,8070.27
+North,Grocery,2024,7,637.72,8811.03
+North,Grocery,2024,8,1053.83,9512.96
+North,Grocery,2024,9,725.73,10192.75
+North,Grocery,2024,10,897.55,10896.09
+North,Grocery,2024,11,1054.54,11587.9
+North,Grocery,2024,12,996.61,12249.24
+North,Grocery,2025,1,754.0,12951.52
+North,Grocery,2025,2,863.96,13647.11
+North,Grocery,2025,3,961.81,14311.43
+North,Grocery,2025,4,1051.64,14971.48
+North,Grocery,2025,5,580.35,15630.98
+North,Grocery,2025,6,817.4,16309.34
+North,Grocery,2025,7,606.31,17041.39
+North,Grocery,2025,8,594.89,17738.73
+North,Grocery,2025,9,665.09,18397.53
+North,Grocery,2025,10,734.99,19074.09
+North,Grocery,2025,11,1250.53,19788.62
+North,Grocery,2025,12,1136.27,20557.38
+North,Home & Living,2024,1,7008.47,73907.94
+North,Home & Living,2024,2,8822.2,85120.38
+North,Home & Living,2024,3,9659.64,95930.05
+North,Home & Living,2024,4,7444.61,107926.6
+North,Home & Living,2024,5,11615.76,120392.66
+North,Home & Living,2024,6,10704.96,132172.83
+North,Home & Living,2024,7,6827.17,143484.29
+North,Home & Living,2024,8,12814.47,153884.29
+North,Home & Living,2024,9,14063.43,164056.04
+North,Home & Living,2024,10,12164.23,174984.3
+North,Home & Living,2024,11,12942.79,186310.57
+North,Home & Living,2024,12,15316.16,198406.78
+North,Home & Living,2025,1,10326.25,210665.29
+North,Home & Living,2025,2,13284.15,223240.83
+North,Home & Living,2025,3,12928.54,236255.66
+North,Home & Living,2025,4,12125.95,248760.79
+North,Home & Living,2025,5,13630.19,261269.96
+North,Home & Living,2025,6,13484.14,273258.29
+North,Home & Living,2025,7,13278.76,284273.6
+North,Home & Living,2025,8,14108.12,295438.16
+North,Home & Living,2025,9,14496.66,306770.39
+North,Home & Living,2025,10,16347.87,317386.26
+North,Home & Living,2025,11,18037.7,328595.1
+North,Home & Living,2025,12,17753.54,340654.38
+South,Apparel,2024,1,4651.35,22982.78
+South,Apparel,2024,2,2619.21,26387.57
+South,Apparel,2024,3,1922.02,30087.45
+South,Apparel,2024,4,3767.5,33890.46
+South,Apparel,2024,5,3521.56,37447.44
+South,Apparel,2024,6,4288.65,40936.07
+South,Apparel,2024,7,3074.66,44740.15
+South,Apparel,2024,8,4289.45,48533.77
+South,Apparel,2024,9,3562.06,52171.74
+South,Apparel,2024,10,2943.85,55720.9
+South,Apparel,2024,11,5201.06,59314.07
+South,Apparel,2024,12,3438.29,62897.37
+South,Apparel,2025,1,3414.91,66635.84
+South,Apparel,2025,2,3088.25,70270.37
+South,Apparel,2025,3,3619.87,73654.17
+South,Apparel,2025,4,4017.16,76896.41
+South,Apparel,2025,5,4228.94,80388.47
+South,Apparel,2025,6,4331.0,84145.33
+South,Apparel,2025,7,3586.75,87509.01
+South,Apparel,2025,8,3443.47,90818.86
+South,Apparel,2025,9,4993.95,94215.42
+South,Apparel,2025,10,3988.05,97804.59
+South,Apparel,2025,11,5141.81,101646.57
+South,Apparel,2025,12,7218.05,105389.8
+South,Beauty & Personal Care,2024,1,1664.34,16182.88
+South,Beauty & Personal Care,2024,2,2154.75,18748.26
+South,Beauty & Personal Care,2024,3,1948.42,21143.14
+South,Beauty & Personal Care,2024,4,2601.89,23340.1
+South,Beauty & Personal Care,2024,5,2480.02,25567.93
+South,Beauty & Personal Care,2024,6,3348.64,28057.93
+South,Beauty & Personal Care,2024,7,2659.36,30646.01
+South,Beauty & Personal Care,2024,8,2496.02,33025.73
+South,Beauty & Personal Care,2024,9,2642.77,35500.26
+South,Beauty & Personal Care,2024,10,2622.36,38040.93
+South,Beauty & Personal Care,2024,11,3041.66,40524.4
+South,Beauty & Personal Care,2024,12,3728.33,42818.91
+South,Beauty & Personal Care,2025,1,2452.82,44816.19
+South,Beauty & Personal Care,2025,2,1395.81,46957.53
+South,Beauty & Personal Care,2025,3,2302.23,49279.78
+South,Beauty & Personal Care,2025,4,2514.04,51676.05
+South,Beauty & Personal Care,2025,5,3344.23,53956.19
+South,Beauty & Personal Care,2025,6,3502.5,56178.94
+South,Beauty & Personal Care,2025,7,3004.58,58474.38
+South,Beauty & Personal Care,2025,8,3164.43,61061.72
+South,Beauty & Personal Care,2025,9,2465.34,63437.14
+South,Beauty & Personal Care,2025,10,3023.71,65655.02
+South,Beauty & Personal Care,2025,11,4103.21,68176.03
+South,Beauty & Personal Care,2025,12,3446.07,70701.21
+South,Electronics,2024,1,21995.75,122485.79
+South,Electronics,2024,2,17606.19,142475.84
+South,Electronics,2024,3,15508.48,160636.93
+South,Electronics,2024,4,19043.87,176990.12
+South,Electronics,2024,5,17677.78,194716.43
+South,Electronics,2024,6,17747.34,213729.21
+South,Electronics,2024,7,15618.37,232083.12
+South,Electronics,2024,8,22384.3,251101.92
+South,Electronics,2024,9,22820.47,269999.26
+South,Electronics,2024,10,22019.28,288743.13
+South,Electronics,2024,11,22198.65,308171.64
+South,Electronics,2024,12,33747.63,327104.86
+South,Electronics,2025,1,13133.09,345679.75
+South,Electronics,2025,2,17299.07,364313.73
+South,Electronics,2025,3,21615.81,382498.62
+South,Electronics,2025,4,19806.16,400313.67
+South,Electronics,2025,5,26717.2,419200.07
+South,Electronics,2025,6,19688.07,438358.66
+South,Electronics,2025,7,16467.4,457728.25
+South,Electronics,2025,8,16331.66,475952.76
+South,Electronics,2025,9,16009.06,493581.42
+South,Electronics,2025,10,21599.05,511383.41
+South,Electronics,2025,11,24053.26,529343.16
+South,Electronics,2025,12,36705.05,548434.63
+South,Grocery,2024,1,440.38,4819.94
+South,Grocery,2024,2,907.31,5587.36
+South,Grocery,2024,3,668.86,6357.5
+South,Grocery,2024,4,651.23,7154.79
+South,Grocery,2024,5,647.28,7966.64
+South,Grocery,2024,6,992.29,8712.04
+South,Grocery,2024,7,579.68,9426.77
+South,Grocery,2024,8,622.15,10141.42
+South,Grocery,2024,9,695.79,10868.71
+South,Grocery,2024,10,935.91,11609.44
+South,Grocery,2024,11,957.36,12330.71
+South,Grocery,2024,12,1156.4,13036.72
+South,Grocery,2025,1,612.28,13761.52
+South,Grocery,2025,2,608.62,14527.1
+South,Grocery,2025,3,755.09,15257.49
+South,Grocery,2025,4,999.47,15982.06
+South,Grocery,2025,5,907.79,16801.8
+South,Grocery,2025,6,911.56,17673.55
+South,Grocery,2025,7,1025.04,18415.4
+South,Grocery,2025,8,1043.43,19112.13
+South,Grocery,2025,9,836.18,19852.4
+South,Grocery,2025,10,829.34,20554.38
+South,Grocery,2025,11,1072.93,21335.85
+South,Grocery,2025,12,1185.32,22101.28
+South,Home & Living,2024,1,14342.42,82641.03
+South,Home & Living,2024,2,9574.16,95389.75
+South,Home & Living,2024,3,12206.77,108691.61
+South,Home & Living,2024,4,14294.11,122090.35
+South,Home & Living,2024,5,12841.4,134998.44
+South,Home & Living,2024,6,14409.97,147479.48
+South,Home & Living,2024,7,12468.58,159790.73
+South,Home & Living,2024,8,10904.72,172827.31
+South,Home & Living,2024,9,16079.0,186316.08
+South,Home & Living,2024,10,17039.38,199485.14
+South,Home & Living,2024,11,19649.77,212115.47
+South,Home & Living,2024,12,19531.9,225261.67
+South,Home & Living,2025,1,18182.63,238720.39
+South,Home & Living,2025,2,10439.83,252116.42
+South,Home & Living,2025,3,12619.26,264923.28
+South,Home & Living,2025,4,12031.56,277185.27
+South,Home & Living,2025,5,15043.66,289897.12
+South,Home & Living,2025,6,16362.16,302187.37
+South,Home & Living,2025,7,18517.05,314646.12
+South,Home & Living,2025,8,12811.85,327040.32
+South,Home & Living,2025,9,13748.14,339050.21
+South,Home & Living,2025,10,14333.56,351599.0
+South,Home & Living,2025,11,21412.43,364279.86
+South,Home & Living,2025,12,22532.3,376821.03
+West,Apparel,2024,1,2691.46,20855.81
+West,Apparel,2024,2,3041.94,23698.11
+West,Apparel,2024,3,3409.79,27061.77
+West,Apparel,2024,4,2897.82,30574.47
+West,Apparel,2024,5,2873.33,33801.68
+West,Apparel,2024,6,3176.17,36913.73
+West,Apparel,2024,7,3146.14,40142.86
+West,Apparel,2024,8,2592.19,43652.77
+West,Apparel,2024,9,4536.03,47228.75
+West,Apparel,2024,10,3939.6,50498.88
+West,Apparel,2024,11,4482.42,53783.22
+West,Apparel,2024,12,5228.36,56978.46
+West,Apparel,2025,1,3555.33,60014.07
+West,Apparel,2025,2,2930.09,63055.78
+West,Apparel,2025,3,3985.99,66098.33
+West,Apparel,2025,4,4443.18,69247.93
+West,Apparel,2025,5,4290.75,72481.88
+West,Apparel,2025,6,3837.63,75536.48
+West,Apparel,2025,7,3781.9,78672.45
+West,Apparel,2025,8,3487.5,82166.78
+West,Apparel,2025,9,4019.19,85729.53
+West,Apparel,2025,10,4601.61,89243.59
+West,Apparel,2025,11,3875.61,92518.93
+West,Apparel,2025,12,5578.68,95485.21
+West,Beauty & Personal Care,2024,1,1989.9,18296.76
+West,Beauty & Personal Care,2024,2,2652.81,21139.1
+West,Beauty & Personal Care,2024,3,2779.73,24070.08
+West,Beauty & Personal Care,2024,4,3072.63,26824.52
+West,Beauty & Personal Care,2024,5,2862.67,29543.33
+West,Beauty & Personal Care,2024,6,3578.45,32493.55
+West,Beauty & Personal Care,2024,7,3167.26,35495.56
+West,Beauty & Personal Care,2024,8,3183.92,38257.63
+West,Beauty & Personal Care,2024,9,2661.33,41001.4
+West,Beauty & Personal Care,2024,10,2840.6,43700.06
+West,Beauty & Personal Care,2024,11,3377.52,46419.14
+West,Beauty & Personal Care,2024,12,4859.76,49053.42
+West,Beauty & Personal Care,2025,1,2796.24,51576.94
+West,Beauty & Personal Care,2025,2,3117.55,54510.07
+West,Beauty & Personal Care,2025,3,2664.78,57580.03
+West,Beauty & Personal Care,2025,4,2654.05,60596.48
+West,Beauty & Personal Care,2025,5,3797.65,63799.54
+West,Beauty & Personal Care,2025,6,4060.32,66936.94
+West,Beauty & Personal Care,2025,7,2338.32,69844.75
+West,Beauty & Personal Care,2025,8,2342.71,72789.49
+West,Beauty & Personal Care,2025,9,3092.06,75809.58
+West,Beauty & Personal Care,2025,10,3494.84,78830.11
+West,Beauty & Personal Care,2025,11,4380.88,81792.56
+West,Beauty & Personal Care,2025,12,4672.53,84635.31
+West,Electronics,2024,1,24980.98,132868.27
+West,Electronics,2024,2,17745.41,153388.45
+West,Electronics,2024,3,19402.63,174076.57
+West,Electronics,2024,4,14608.56,193204.08
+West,Electronics,2024,5,25578.01,212039.19
+West,Electronics,2024,6,15642.59,231519.14
+West,Electronics,2024,7,20157.63,251113.23
+West,Electronics,2024,8,21332.98,271862.35
+West,Electronics,2024,9,18395.43,293005.11
+West,Electronics,2024,10,19502.29,313527.04
+West,Electronics,2024,11,29239.71,333454.2
+West,Electronics,2024,12,38630.52,354305.03
+West,Electronics,2025,1,19118.24,375848.15
+West,Electronics,2025,2,17807.86,396413.58
+West,Electronics,2025,3,25148.59,417925.49
+West,Electronics,2025,4,26506.23,439095.82
+West,Electronics,2025,5,18549.15,458753.45
+West,Electronics,2025,6,17392.47,477998.55
+West,Electronics,2025,7,24417.18,497911.17
+West,Electronics,2025,8,20821.95,518756.24
+West,Electronics,2025,9,22834.72,539672.82
+West,Electronics,2025,10,18595.33,560091.11
+West,Electronics,2025,11,34534.19,579272.95
+West,Electronics,2025,12,25838.13,597844.3
+West,Grocery,2024,1,645.44,4328.44
+West,Grocery,2024,2,556.52,5024.34
+West,Grocery,2024,3,695.19,5666.05
+West,Grocery,2024,4,855.1,6326.14
+West,Grocery,2024,5,532.15,7056.22
+West,Grocery,2024,6,653.66,7755.89
+West,Grocery,2024,7,463.44,8436.65
+West,Grocery,2024,8,691.04,9158.83
+West,Grocery,2024,9,675.53,9861.59
+West,Grocery,2024,10,900.51,10568.61
+West,Grocery,2024,11,991.94,11242.63
+West,Grocery,2024,12,1239.17,11893.09
+West,Grocery,2025,1,728.9,12539.26
+West,Grocery,2025,2,794.28,13187.54
+West,Grocery,2025,3,728.8,13855.48
+West,Grocery,2025,4,747.82,14537.77
+West,Grocery,2025,5,589.89,15257.14
+West,Grocery,2025,6,785.95,15990.13
+West,Grocery,2025,7,684.58,16680.38
+West,Grocery,2025,8,944.79,17362.49
+West,Grocery,2025,9,1125.62,18081.34
+West,Grocery,2025,10,945.17,18795.24
+West,Grocery,2025,11,940.4,19480.58
+West,Grocery,2025,12,934.14,20175.96
+West,Home & Living,2024,1,12788.94,83324.82
+West,Home & Living,2024,2,12493.7,96437.8
+West,Home & Living,2024,3,12922.74,110483.75
+West,Home & Living,2024,4,14249.37,122992.67
+West,Home & Living,2024,5,11767.4,135791.6
+West,Home & Living,2024,6,13022.91,150245.3
+West,Home & Living,2024,7,14521.55,163197.89
+West,Home & Living,2024,8,12127.46,175452.17
+West,Home & Living,2024,9,15790.72,187424.82
+West,Home & Living,2024,10,11943.34,198603.61
+West,Home & Living,2024,11,21321.13,211438.14
+West,Home & Living,2024,12,14993.3,224460.16
+West,Home & Living,2025,1,12891.42,236992.81
+West,Home & Living,2025,2,13388.72,250301.24
+West,Home & Living,2025,3,15983.94,262786.06
+West,Home & Living,2025,4,13884.13,274984.04
+West,Home & Living,2025,5,12357.66,287706.2
+West,Home & Living,2025,6,13221.4,300527.62
+West,Home & Living,2025,7,14469.76,313627.53
+West,Home & Living,2025,8,16770.15,326211.33
+West,Home & Living,2025,9,13828.82,339146.81
+West,Home & Living,2025,10,14648.26,352449.93
+West,Home & Living,2025,11,17956.55,364760.63
+West,Home & Living,2025,12,24950.82,377086.73
